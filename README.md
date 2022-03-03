@@ -4,7 +4,7 @@
 **Name**: | Amie Shanaya Wijeratne  |
 **Student ID**: | 22012825 |
 **Course:** | BSc (Hons) Cyber Security |
-**Module**: | CO453 Application Programming     |
+**Module**: | CO453 Application Programming|
 **Started**: | January 2022 |    
 
 1. App01: Distance Converter
